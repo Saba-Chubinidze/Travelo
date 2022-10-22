@@ -5,6 +5,7 @@
     margin: 0 auto;
     background-color: green;
     box-sizing: border-box;
+    overflow-x: hidden;
     
 }
 
